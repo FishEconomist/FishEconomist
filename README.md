@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FishEconomist
-- 👀 I’m interested in fisheries stuff: economic data 
-- 🌱 I’m currently learning how to make better maps with R
+- 👀 I’m interested in fisheries stuff: economic data, spatial data 
+- 🌱 I’m currently learning how to make better maps with R and how to automate RMD reports
 - 💞️ I’m looking to collaborate on anything fun in fisheries
 - 📫 How to reach me: there are several options listed on my [company website](https://www.sakana-consultants.com/#contact), pick the one you prefer!
 
